@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="analytics.stat_extraction.code.step1_objects.player_matching" />
+          <option value="step1_objects" />
+          <option value="analytics.stat_extraction.code.Game_stat_extractor.step2_objects" />
+          <option value="common.*" />
+          <option value="Athlyte.Drive_Analytics.tests_penalty.test_demo.*" />
+          <option value="Levenshtein" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

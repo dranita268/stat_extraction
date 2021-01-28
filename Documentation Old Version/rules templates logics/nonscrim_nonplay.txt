@@ -1,0 +1,67 @@
+Parent-child dictionary:
+
+Nonscrim:
+    PAT
+        Identifiers: pat, point(s) after touchdown, pat kick, convert, conversion, 
+                     extra point, xpa, 2-point conversion
+    KICKOFF
+        Identifiers: kick(s/ed) off, kickoff, kick into endzone
+    RETURN
+        Identifiers: return(s/ed)
+    PENALTY
+        Identifiers: penalty, penalized
+    FGA
+        Identifiers: fga, fg, fgc, field goal, field goal attempt
+    DEAD
+        Identifiers: dead, deadball, dead ball
+    DEFENSE
+        Identifiers: safe, saf, safety
+
+Nonplay:
+    POSSESSION_CHANGE
+        Identifiers: possession, ball
+    GAME SUMMARY
+        Identifiers: score, scoring, td, fg, pat
+    TIMEOUT
+        Identifiers: timeout(s), time(s/d) out
+    TOSS
+        Identifiers: toss, coin toss, elect to, defer choice, elect to receive
+    GAMEDATE
+        Identifiers: january, jan, february, feb, march, mar, april, apr, may, may, june, jun,
+                     july, jul, august, aug, september, sep, october, oct, november, nov,
+                     december, dec, monday, tuesday, wednesday, thursday, friday, saturday, sunday
+    WEATHER
+        Identifiers: weather,wind,temperature,overcast,sunny, clear, humid, cloudy, windy, temp,
+                     gust, gusts, mph, degrees, degree, rain, shower, dry
+    ATTENDANCE
+        Identifiers: attendance
+    LOCATION
+        Identifiers: stadium
+    TEAM
+        Identifiers: vs, vs., versus, university
+    PAGE
+        Identifiers: page, pg, 
+    GAMEPERIOD
+        Identifiers: quarter, period, half, quarters, periods, end of , qtr
+    GAMECLOCK
+        Identifiers: 19:00 (2 numbers : 2 numbers)
+
+--------------------------------------------------------------------------------
+Action-result dictionary:
+
+Nonscrim:
+    PAT
+        Actions: pat, point(s) after touchdown, pat kick(s), convert(s/ed), conversion, 2-point conversion,
+                 2-pt conversion, extra point kick, extra point, xpa
+        Results: successful, succeed, complete, good, unsuccessful, fail, incomplete, bad, missed, no good,
+                 block, sack, break up, intercepted, fumble, drop
+    KICKOFF
+        Actions: kick(s/ed) off
+        Results: return, touchback, out of bounds, fair catch, on-side kick
+    FGA
+        Actions: fg, fga, field goal, fgc
+        Results: good, no good, successful, unsuccessful, too short/left/right, wide left/right, hit crossbar,
+                 hit left upright, block, fail, miss, succeed
+    DEFENCE
+        Actions: safe, safety, sad, qb hurry
+        Results: /

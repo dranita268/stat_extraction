@@ -1,0 +1,323 @@
+Game title
+GameType
+Team1 Alabama
+Team2 Kentucky
+
+Team 1: Alabama
+Team 2: Kentucky
+Team 1: Letter or text used to identify field side "A"
+Team 2 : Letter or text used to identify field side "K"
+Team 1: Letter or text to identify POSSESSION format (abbreviation used) "A"
+Team 2:  Letter or text to identify POSSESSION format (abbreviation used) "K"
+CONTEXT format  [POSS-DOWN-YTG-SPOTSIDE-SPOT]
+Context POSS: TRUE
+POSSESSION start must have "POSSESSION" + Team Possession format": TRUE
+
+
+KENTUCKY Vs ALABAMA
+
+7:30 pm, Saturday, Nov. 23, 1972 Legion Field Birmingham, Ala.
+
+WEATHER Temp. 75. Wind from South at 8-13 mph. Cloudy.
+CAPTAINS ; For Kentucky, Neal (52), Swindle (12) King (87), Clark (63) For Alabama, Bisceglia (44), Wade (32) and Lowe (47).
+
+Kentucky wins toss. elects to receive. Alabama defending North goal.
+POSSESSION:A
+Gantt kicks to Kotar in end zone, downed,
+
+POSSESSION:K
+14:58
+K 1-10 K20 Carroll at left tackle gains one (Blitz, Hall, Mitchell)
+K 2-9  K21 McKay fumbles snap. recovered by Kubelius for Alabama
+
+POSSESSION:A
+14:22
+A 1-10 K21 Bisceglia at left tackle gains two (Lidville)
+A 2-8  K19 Jackson at right end gains nine and FIRST DOWN (LeMaster, Swindle)
+A 1-10 K10 Bad pitch, LaBue gets back to line (Bishop)
+A 2-10 K1O Jackson at right end gains three (LeMaster, NeCollum)
+A 3-7  K 7 Davis pass to Wayne Wheeler in end gone for FIRST DOWN and TOUCHDOWN. 11:52. 21 yards, five plays.B.Dav PAT good.
+
+SCORE: A:7 K:0
+
+Gantt kicks to Kotar at four, returned 14 yo 18 (Lowe, Gantt)
+
+POSSESSION:K
+11.43
+K 1-10 K19 Knutson at left tackle gains two (Kubelius. McMakin)
+K 2-8  K21 McKay pass for Alvarez broken up by Norris.
+K 3-8  K21 Barga on inside reverse gains four (Hall)
+K 4-4  K25 Tatterson punts, hit by Alabama rush, Alabama penalized i5 yards offsides, FIRST DOWN.
+K 1-10 K30 McKay caught by Mitchell for loss of 11.
+K 2-21 K19 McKay pass for Kotar tipped, intercepted by Wade for Alabama K31.
+
+POSSESSION:A
+9:42
+A 1-10   K31 Davis pass to Wheeler gains 28 and FIRST DOWN.
+A 1-GOAL K 3 Davis keeps at middle for TOUCHDOWN. 9:16. 31 yards, two plays, B. Davis PAT good.
+
+SCORE: A:14 K:0
+
+Gantt kicks to Kotar in end zone, returned to K27 (Watkins, Cross)
+
+POSSESSION:K
+9:09
+K 1-10 K27 Carroll at left end gains four (Lusk, Strickland, McMakin)
+K 2-6  K31 Collins at right end gains four (Croyle. Faust, Strickland)
+K 3-2  K35 Collins at left end. no gain (Strickland)
+K 4-2  K35 Tatterson punts to MicKinney, fair catch at A33, 32-yard punt.
+
+POSSESSION:A
+7:12
+A 1-10 A33 Spivey at left guard gains four. (Lidvall).
+A 2-6  A37 Spivey at middle gains nothing (LeMaster)
+A 3-6  A37 Spivey at middle, caught by McCollum for minus 10
+A 4-7  A36 Gantt punts to Woodcock at A27, 37 yards.
+
+POSSESSION:K
+5:23
+K 1-10 K27 Collins at right end gains four (Hall)
+K 2-6  K31 McKay scrambling, finally caught by Watkins for loss of one e
+K 3-7  K30 Campbell at right guard gains five.
+K 4-2  K35 Tatterson punts to McKinney at A20, fair catch. 45-yard punt.
+
+POSSESSION:A
+3:21
+A 2-10 A21 Billingsley at right guard gains five (King. MeCollum, Swindle).
+A 2-5  A26 Spivey at middle gains 15 and FIRST DOWN (Burnam, Swindle)
+A 1-10 A4l Davis pass complete to Dean gains 10 and FIRST DOWN, (BishoP)
+A 1-10 K49 Spivey at middle gains two (LeMaster)
+A 2-8  K47 Alabama penalized five yards, delay of game,
+A 2-13 A48 Dean caught by Woodcock Tor loss of three
+A 3-16 A45 Davis caught by Hovey for loss of 10.
+
+END OF FIRST QUARTER
+
+SCORE: A:14 K:0
+
+START SECOND QUARTER ALABAMA Vs. KENTUCKY (Alabama 14, Kentucky 0)
+
+POSSESSION:A
+A 4-26 A35 Gantt punts to Woodcock at 18, returned zip to 29, a 42-yard punt.
+
+
+POSSESSION:K
+14:49
+K 1-10 K30  Kotar at left end, no gain (Washington)
+K 2-10 K30  McKay pass complete to Barga gains three (Lowe)
+K 3-7  K33  Barga on inside reverse at left guard gains eight and FIRST DOWN.
+K 1-10 K41  McKay caught by Hines for loss of five.
+K 2-15 K36  McKay pass intended for Barga, broken up by Lowe.
+K 3-15 K36  McKay screen pass to Barga loses two yards (Blitz, Lusk)
+K 4-17 K34  Tatterson to punt, low snap, Tatterson caught by Lusk and Lowe for loss of three.
+
+
+POSSESSION:A
+11:45
+A 1-10 K31  Billingsley at right tackle gains three (McCollum)
+A 2-8  K28  Davis pass intended for Wheeler, overthrow, incomplete.
+A 3-8  K28  Davis back to pass, slips, loses nine.
+A 4-17 K37  Gantt punts to end zone, 37 yards, no return.
+
+
+POSSESSION:K
+10:19
+K 1-10 K20  Carroll at right tackle gains two (Raines, Watkins)
+K 2-8  K23  McKay pass for Alvarez broken up by AIvarez.
+K 3-8  K23  McKay pass complete to Alvarez gains miamamFIRST DOWN and 10 yi
+K 1-10 K32  Kotar at right tackle gains one (Raines)
+K 2-9  K33  McKay keeps, gains four at right end (Lowe)
+K 3-5  K37  McKay hit by McMakin as attempting to pass. incomplete
+K 4-5  K37  Tatterson punts to McKinney, fair catch by McKinney at A29.
+
+
+POSSESSION:A
+8:00
+A 1-10 A29  Bisceglia at middle gains nine (Hovey, Bishop)
+A 2-1  A38  Davis pass complete to Wheeler gains 19 and FIRST DOWN (Bishop)
+A 1-10 K43  Jackson at middle gains seven (Thomas)
+A 2-3  K36  Davis pass for Wheeler in end zone. overthrown. incomplete.
+A 3-3  K36  Dean at right tackle gains three and FIRST DOWN (LeMaster)
+A 1-10 K33  Bisceglia at middle gains six (LeMaster, Bishop)
+A 2-4  K27  Dean at right tackle, no gain (LeMaster)
+A 3-4  K27  Davis pass for Wheeler, caught out of end zone, incomplete, but Kentucky pen. net of 16 yards, roughing passer.
+A 1-10 K11  Jackson at right tackle gains three (King)
+A 2-7  K 8  Dean at middle gains three (King, Swindle)
+A 3-4  K 5  Jackson at right tackle gains one (King, MCCollum),
+A 4-3  K 4  B. Davis 2l-yard field goal attempt wide left, no good.
+
+
+POSSESSION:K
+3:02
+K 1-10 K20  McKay pass complete to Alvarez gains 14 and FIRST DOWN (McMakin)
+K 1-10 K34  McKay at right end slips and loses four.
+K 2-14 K30  Collins at left end gains four (Strickland)
+K 3-10 K34  McKay pass intended forAlvarez, broken up by Wade.
+K 4-10 K34  Tatterson punts to McKinney, fair catch, at A33. 33-yard punt.
+
+
+POSSESSION:A
+1:38
+A 1-10 A33 Spivey at right guard gains n four (LeMaster)
+A 2-6  A37 Davis pass intended for Wheeler, underthrown, incomplete.
+A 3-6  A37 Jackson at middle gains two (LeMaster)
+A 4-4  A39 Gantt punts to end zone, 61 yards, no return.
+
+
+POSSESSION:K
+126
+K 1-10 K20  Ky penalized half distance, 10 yards, holding
+K 1-20 K10  McKay pass for Alvarez, broken up by McMakine
+K 2-20 K10  Knutson at right guard gains five (Kubelius, Croyle, Blitz)
+
+END OF FIRST HALF
+
+SCORE: A:14 K:0
+
+ATTENDANCE 71,433
+
+
+START SECONDN HALF ALABAMA V8. KENTUCKY (ALabama 14, Kentucky 0)
+
+Alabama has choice and elects to receive. Kentucky will defend North goal.
+Sexton kicks to Spivey at 14, returned 38 yards to K48 tnap (Phillips)
+
+POSSESSION:A
+14:52
+A 1-10 K48    Bisceglia at middle gains four (LeMaster, Swindle, King)
+A 2-6  K44    LaBue at middle gains 13 and FIRST DOWN (Bishop)
+A 1-10 K31    Bisceglia at middle gains three (Lidvalle, LeMaster)
+A 2-7  K28    Jackson at right end, Bisceglia good blockdownfield, gains 22 and FIRST DOWN. (Hovey, Woodcock)
+A 1-GOAL K 6  LaBue at right guard gains one. (LeMaster King)
+A 2-GOAL K 5  Davis keeps at right guard gains three (Lidvalle, Thomas)
+A 3-GOAL K 3  Davis pass intended for Wheeler, broken up in end zone by Burnam.
+A 4-GOAL K 3  B. Davis 20-yard field goal attempt, low snap, Davis picks it up and hits Bisceglia in end zone for TOUCHDOWN. 11:52. 48 yards, eight plays. B. Davis PAT good.
+
+SCORE: A:21 K:0
+
+Gantt kicks to Kotar in end zone, returns to K27 (Hines, Djbose, Meadows)
+
+
+POSSESSION:K
+11:49
+K 1-10 K27  Knutson at middle gains 11 and FIRST DOWN (McMakin)
+K 1-10 K38  Knutson at middle gains 19 and FIRST DOWN (Croyle)
+K 1-10 A43  Barga on inside reverse at right guard gains four (Raines, Kubelius) 	
+K 2-6  A39  Knutson slips on pitch at right end loses four.
+K 3-10 A43  McKay back to pass, pressured by Croyle and Kubelius, slips for loss of five.
+K 4-15 A48  Tatterson punts to end zone. Alabama penalized 15 yards for roughing kicker', just short of first down
+K 4-1  A3l  Alabama penalized i5 yards, offsides. FIRST DOWN.
+K 1-10 A29  Knutson at right tackle gains seven. (Kubelius)
+K 2-3  A22  Knutson at middle gains two (Watkins)
+K 3-1  A20  Knutson at left end gains nothing (Kubelius)
+K 4-1  A20  Knutson at middle gains three and FIRST DOWN
+K 1-10 A17  Knutson at right tackle gains four (Hall. Watkins, Blits)
+K 2-6  A13  McKay keeps at right end, no gain (Croyle, Watkins)
+K 3-6  A13  Barga at middle gains two (Raines)
+K 4-4  A11  Sexton 29-yard field goal attempt, fake, McKay pass to Collins complete, loss of three (McKinney p Watkins)
+
+
+POSSESSION:A
+5:15
+A 1-10 A14  Beck at middle gains 10 and FIRST DOWN (Thomas, King)
+A 1-10 A24  Stokes at middle gains six (Parker)
+A 2-4  A30  Stokes caught by Hovey for loss of 10.
+A 3-14 A20  Davis pass complete to Wheeler gains 16 and FIRST DOWN.
+A 1-10 A36  Davis pass intended for Wood, overthrown, incomplete.
+A 2-10 A36  Beck at middle gains one (MCCollum)
+A 3-9  A37  Davis screen pass to Spivey gains three (Ehlers Bishop)
+A 4-6  A40  Gantt punts to Woodcock at K13, 46-yard punt, eight-yard return.
+
+POSSESSION:K
+1:46
+K 1-10 K22 Knutson at left end gains six (Sthickaldn, Lusk)
+K 2-4  K28 McKay pass intended for Barga, incomplete.
+K 3-4  K28 McKay keeps at right end gains three (Dubose, Cary)
+K 4-1  K33 Knutson at left tackle gains four and FIRST DOWN. (Cary, Watkins)
+K 1-10 K35 Knutson at left end gains three (Mckinney)
+K 2-7  K38 Mckay keeps at right end gains three (Hines, Strickland)
+
+
+END OF THIRD QUARTER
+SCORE: A:21 K:0
+
+
+START FOURTH QUARTER, ALABAMA Vs. KENTUCKY (Alabama 21, Kentucky 0)
+
+
+POSSESSION:K
+K 3-4 K41  McKay pass intended for Alvarez, overthrown, incomplete.
+K 4-4 K41  Tatterson punts to McKinney to 16, returned to A26 by McKinney.
+
+POSSESSION:A
+14:42
+A 1-10 A26 Davis keeps for six, Laterals to LaBue for seven more. FIRST DOWN.
+A 1-10 A39 Bisceglia at middle gains four (Lidvall. Marks)
+A 2-6  A43 Jackson at left tackle gains nine and FIRST DOWN (Bishop)
+A 1-10 K18 Bisceglia at middle gains eight (LeMaster, Bishop)
+A 2-2  K40 Bisceglia at middle gains two and FIRST DOWN. (Marks)
+A 1-10 K38 Davis pass complete to Sharpless gains nine
+A 2-1  K29 Bisceglia at middle gains four and FIRST DOWN (LeMaster)
+A 1-10 K25 Jackson at middle gains two (LeMaster, King)
+A 2-8  K23 Davis keeps for gain of six, pitches to LaBue who keeps for eight. (Bishop)
+A 1-GOAL K 9  Bisceglia nine yards up middle for TOUCHDOWN, 11.10 74 yards, 10 plays. B. Davis PAT good.
+
+SCORE: A:28 K:0
+
+Gantt kicks to Campassi in end zone, downed.
+
+POSSESSION:K
+11:06
+K 1-10 K20  Campbell gains one fumble on handoff. (lewis no qb)
+K 2-9  K21  Collins at right end gains four.
+K 3-5  K25  Lewis keeps at left end gains two. (Cary)
+K 4-3  K27  Tatterson kicks out of bounds at A31, 42-yard punt.
+
+POSSESSION:A
+9:11
+A 1-10 A31  (Rutledge qb) Beck at middle gains 7 (Lidvall, Ehlers)
+A 2-9  A32  Stokes at left end gains one, but Kentucky penalized 15 yards, net personal foul. FIRST DOWN.
+A 1-10 A48  Stokes at middle gains three (LeMaster, King)
+A 2-7  K49  Beck at middle gains four (LeMaster)
+A 3-3  K45  Rutledge keeps at right end gains four and FIRST DOWN. (Thomas)
+A 1-10 K41  Stokes at left end caught by Bishop and Ehlers for loss of two.
+A 2-12 K43  Rutledge pass intended for Taylor, overthrown, incomplete
+A 3-12 K43  Alabama penalized five yards, delay of game.
+A 3-17 K48  Rutledge pass complete to Stokes about 25, follows good blocking downfield for 48 yard gains FIRST DOWN and TOUCHDOWN. 5:19 69 yards, seven plays. B. Davis PAT good,
+
+SCORE: A:35 K:0
+
+Kentucky offsides on PAT. assesed on kickoff.
+
+Gantt kicks to Campassi in end zone, downed.
+
+POSSESSION:K
+5.15
+K 1-10 K20  Lewis pass intended for O'Leary incomplete.
+K 2-10 K20  Lewis scrambling gains five (Cary)
+K 3-5  K25  Lewis passing under pressure from Faust, intended for OLearye intercepted by Washington at K47.
+
+POSSESSION:A
+4:26
+A 1-10 K48 Bad pitch by Fraley loses nine, covered by Knapp.
+A 2-19 A44 Fraley pass complete to Taylor gains 14.
+A 3-5  K42 Fraley keeps for no gain. (Ranieri)
+A 4-5  K42 Gantt punts into end zone, 42 yards, no return.
+
+POSSESSION:K
+2:37
+K 1-10 K20 Carroll at left tackle gains one (Cross)
+K 2-9  K21 Carroll on draw gains 17 and FIRST DOWN (Cary Faust)
+K 1-10 K38 Lewis pass intended for O'Leary broken up by King.
+K 2-10 K38 Collins at left guard gains two (Norman, Miller)
+K 3-8  K40 Carroll at middle gains (Cross)
+K 4-8  K40 Tatterson punts to King at A20, no return, fair catch. 39 yard punt
+
+POSSESSION:A
+:21
+A 1-10 A21  Stokes at left tackle gains three (Parker).
+
+END OF GAME
+
+SCORE: A:35 K:0
+
